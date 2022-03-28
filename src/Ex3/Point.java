@@ -3,8 +3,8 @@ package Ex3;
 import java.util.Arrays;
 
 public class Point {
-    private float x;
-    private float y;
+     float x;
+     float y;
 
     public Point() {
     }
